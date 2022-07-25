@@ -11,3 +11,6 @@ i'm Metabeast and here is a brief introduction on my part. I started programming
 ### Libraries & Framework:
 
 ![ Bootstrap ](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+### Total Stats
+![](https://github-readme-stats.vercel.app/api?username=meetabeast&theme=dark&show_icons=true)
