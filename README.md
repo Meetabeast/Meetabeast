@@ -18,4 +18,4 @@ i'm Metabeast and here is a brief introduction on my part. I started programming
 ![ NodeJS ](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Total Stats
-![ Stats ](https://github-readme-stats.vercel.app/api?username=meetabeast&theme=dark&show_icons=true)
+![ Stats ](https://github-readme-stats.vercel.app/api?username=meetabeast&theme=dracula&show_icons=true)
