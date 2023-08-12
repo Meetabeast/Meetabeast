@@ -1,6 +1,6 @@
 ### Hey there 👋     
 ## :book: About Me
-Hey, I'm Nico, an 16-year-old passionate programmer with a preference for frontend development.
+Hey, I'm Nico, an passionate programmer with a preference for frontend development.
                 My journey into the world of programming started early, and since then, I have been nurturing my passion for code and technology. When I'm not exploring new places or traveling, you can often find me in front of my computer, where I spend my time programming in React, Vue, Nuxt and Next.
 
 # 💻 Tech Stack
