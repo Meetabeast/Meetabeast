@@ -28,6 +28,7 @@ Hey, I'm Nico, an passionate programmer with a preference for frontend developme
 ![ MongoDB ](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ MySQL ](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ Firebase ](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![ Supabase ](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 # Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Meetabeast&show_icons=true&count_private=true&hide_border=true&theme=dark&card_width=800" align="center" /></div>
