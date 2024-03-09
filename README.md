@@ -5,7 +5,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/84871625?v=4" alt="Meetabeast" width="175" />
 
 ```csharp
-meetabeast@github
+Meetabeast
 -------------------------
 Languages: JavaScript, Python, TypeScript
 Frameworks: Tailwindcss, Bootstrap
